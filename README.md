@@ -1,10 +1,10 @@
-# 📊 Portofolio Analisis Data & Statistik (RStudio)
+# Portofolio Analisis Data & Statistik (RStudio)
 
 Selamat datang di repositori portofolio saya! Repositori ini berisi kumpulan studi kasus pengolahan data, pemodelan statistik, dan visualisasi data menggunakan RStudio untuk kebutuhan analisis kuantitatif dan riset.
 
 ---
 
-## 🛠️ Portofolio & Studi Kasus Proyek
+## Portofolio & Studi Kasus Proyek
 
 ### 1. Studi Kasus: Analisis Hubungan Pendapatan dan Tingkat Kebahagiaan
 Deskripsi Singkat: Melakukan pembersihan data (data cleaning), konversi tipe data numerik, pembuatan statistik deskriptif (histogram & scatter plot), serta pemodelan regresi linier sederhana yang dilengkapi visualisasi grafik interaktif.
@@ -18,7 +18,7 @@ File Script: `analisis_regresi_berganda_bps.R`
 
 ---
 
-## 📩 Layanan Jasa Olah Data
+## Layanan Jasa Olah Data
 Saya menyediakan jasa bantuan profesional untuk:
   Olah Data Statistik (Regresi Sederhana/Berganda, ANOVA, dll.)
   Uji Asumsi Klasik RStudio
